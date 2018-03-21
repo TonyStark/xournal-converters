@@ -5,3 +5,5 @@ Python scripts for converting [Xournal](http://xournal.sourceforge.net/) documen
 So far, only Xournal features that I personally use are implemented.
 
 This package is available on PyPI; run `pip install xournal-converters` to install.
+then run from terminal
+```xoj2pdf input.xoj > output.pdf```
